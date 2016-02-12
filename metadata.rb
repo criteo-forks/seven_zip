@@ -8,3 +8,4 @@ version          '1.0.4'
 supports         'windows'
 
 depends          'windows', '>= 1.2.2'
+chef_version     '>= 11.6'
